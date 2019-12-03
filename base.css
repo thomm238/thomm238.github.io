@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* A simple style sheet */
+
+body {
+    background-color: gainsboro;
+    color: darkgoldenrod;
+    
+    
+
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    text-decoration: underline
+    line-through
+    overline;
+    font-weight: 200;
+    font-style: italic
+}
+
+p{
+    text-align: left;
+    
+    font-style: normal;
+    
+}
+
+  
+
+a{
+    text-decoration: none;
+    font-style: normal
+}
+
+a:link {
+    color: blanchedalmond
+}
+
+a:visited{
+    color: saddlebrown
+}
+
+a:hover{
+    color:antiquewhite
+}
+
