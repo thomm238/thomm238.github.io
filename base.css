@@ -3,15 +3,15 @@
 
 
 body {
-    background-color: gainsboro;
-    color: darkgoldenrod;
+    background-color: #FFAD94;
+    color: #FFFF77;
     
     
 
 }
 
 h1 {
-    color: goldenrod;
+    color: #FFFF77;
     text-align: center;
     text-decoration: underline
     line-through
